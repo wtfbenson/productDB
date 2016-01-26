@@ -1,0 +1,22 @@
+{
+  "name": "productdb",
+  "version": "1.0.0",
+  "description": "App for inventory and sales tracking ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtfbenson/productDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtfbenson/productDB/issues"
+  },
+  "homepage": "https://github.com/wtfbenson/productDB#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
